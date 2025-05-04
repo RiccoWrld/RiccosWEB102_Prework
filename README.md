@@ -1,18 +1,19 @@
-# Android Prework - Sea Monster Crowdfunding
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: Ricardo Beale
 
-Sea Monnster Crowdfunding is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+Sea Monster Crowdfundingis a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **48** hours spent in total
+Time spent: 48 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [x] Image and introductory message displayed on screen
-* [x] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -22,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a video walkthrough of implemented features:
 
-https://youtu.be/Yzn9fySXX7g 
+https://youtu.be/Yzn9fySXX7g
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -33,14 +34,13 @@ GIF created with ...
 
 ## Notes
 
-- Used youtube for video walkthtough
-- Images wouldn't load even witht he correct syntax
-
+- Used youtube to create video walkthrough
+- Images wouldn't display even witht he correct syntax
 
 Describe any challenges encountered while building the app.
 
-- Getting Images to display
-- Using console.log to get the number of fujnded and unfunded games
+- Getting the images to display
+- Using console.log to get the number of funded and unfunded games
 
 ## License
 
